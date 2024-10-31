@@ -1,1 +1,2 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AGIBE/durchstich/HEAD)
+Allgemein [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AGIBE/durchstich/HEAD?labpath=durchstich_allgemein.ipynb)
+Naturgefahren [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AGIBE/durchstich/HEAD?labpath=naturgefahren.ipynb)
